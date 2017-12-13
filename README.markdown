@@ -1,4 +1,4 @@
-This is the first application for
+ This is the first application for
 
 [*Ruby on Rails Tutorial: Learn Rails by Example*]
 
